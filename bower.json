@@ -1,0 +1,7 @@
+{
+  "name": "bedrock-angular-lazy-compile",
+  "main": "./app.js",
+  "ignore": [],
+  "dependencies": {
+  }
+}
