@@ -12,7 +12,7 @@ define([
 
 'use strict';
 
-var module = angular.module('app.lazyCompile', []);
+var module = angular.module('bedrock.lazyCompile', []);
 
 module.directive(lazyCompileDirective);
 
