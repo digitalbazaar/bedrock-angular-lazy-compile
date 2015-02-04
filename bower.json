@@ -4,5 +4,6 @@
   "moduleType": ["amd"],
   "ignore": [],
   "dependencies": {
+    "angular": "~1.3.2"
   }
 }
