@@ -20,7 +20,7 @@ time or time to render.
 
 ```html
 <script type="text/ng-template" id="demo.html">
-  <!-- use br-lazy-id to optimize large content
+  <!-- use br-lazy-id to optimize large content -->
   <my-directive
     br-lazy-compile="model.compileWhenTruthy" br-lazy-id="demo.html">
     <div>
