@@ -43,7 +43,7 @@ available to your application.
 
 To manually add **bedrock-angular-lazy-compile** as a dependency:
 
-```
+```js
 angular.module('myapp', ['bedrock.lazyCompile']);
 ```
 
