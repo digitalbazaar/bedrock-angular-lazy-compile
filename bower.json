@@ -1,6 +1,6 @@
 {
   "name": "bedrock-angular-lazy-compile",
-  "version": "1.0.0",
+  "version": "1.0.1-dev",
   "main": "./lazy-compile.js",
   "moduleType": ["amd"],
   "ignore": [],
