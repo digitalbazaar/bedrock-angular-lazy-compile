@@ -1,16 +1,12 @@
 /*!
  * Lazy compile directive.
  *
- * Copyright (c) 2014 Digital Bazaar, Inc. All rights reserved.
+ * Copyright (c) 2014-2017 Digital Bazaar, Inc. All rights reserved.
  *
  * @author Dave Longley
  */
-define([], function() {
-
-'use strict';
-
 /* @ngInject */
-function factory($compile, $templateCache) {
+export default function factory($compile, $templateCache) {
   return {
     restrict: 'A',
     // run before just about anything else
@@ -62,7 +58,3 @@ function factory($compile, $templateCache) {
     };
   }
 }
-
-return {brLazyCompile: factory};
-
-});
