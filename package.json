@@ -1,6 +1,6 @@
 {
   "name": "bedrock-angular-lazy-compile",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "An AngularJS module that provides a directive that can be used to delay the compilation of other directives until some specified event occurs.",
   "main": "index.js",
   "dependencies": {
