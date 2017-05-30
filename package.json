@@ -6,6 +6,9 @@
   "dependencies": {
     "angular": "~1.6.4"
   },
+  "bedrock": {
+    "browserDependencies": "all"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/digitalbazaar/bedrock-angular-lazy-compile.git"
