@@ -4,7 +4,7 @@
   "description": "An AngularJS module that provides a directive that can be used to delay the compilation of other directives until some specified event occurs.",
   "main": "index.js",
   "dependencies": {
-    "angular": "~1.6.4"
+    "bedrock-angular": "^4.0.0"
   },
   "bedrock": {
     "browserDependencies": "all"
