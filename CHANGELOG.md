@@ -1,5 +1,10 @@
 # bedrock-angular-lazy-compile ChangeLog
 
+## 3.0.2 - 2017-11-13
+
+### Fixed
+- Replace angular dependency with bedrock-angular.
+
 ## 3.0.1 - 2017-05-30
 
 ### Fixed
